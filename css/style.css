@@ -19,6 +19,9 @@ h1{
     padding: 7px 0 ;
     font-size: 1.1rem;
 }
+img{
+    width: 100%;
+}
 .time-line{
     height: auto;
     width: 50%;
