@@ -1,0 +1,46 @@
+.container{
+    background-color: #e7e4ed;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+.heading{
+    padding: 20px 0 0 0;
+    font-size: 1.3rem;
+}
+h1{
+    font-size: 2.8rem;
+}
+
+.image{
+    background-color: #fff;
+    margin: 0 20px 0 20px;
+    padding: 7px 0 ;
+    font-size: 1.1rem;
+}
+.time-line{
+    height: auto;
+    width: 50%;
+    margin: 0 auto;
+    text-align: left;
+    font-size: 1.1rem;
+    line-height: 2;
+    font-family: 'Roboto', sans-serif;
+
+}
+.ul-list{
+    list-style-type: disc;
+}
+li{
+    padding: 9px 0;
+}
+.PM-comment{
+    padding: 20px 0 0 20px;
+}
+
+.footer{
+    margin-top: 50px;
+    padding-bottom:  20px;
+}
+
